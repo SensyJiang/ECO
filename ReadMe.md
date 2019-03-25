@@ -1,3 +1,25 @@
+## 我的readme
+
+> nicewsyly的readme见附录
+
+IDE: VS 2017
+
+tools: 适用于桌面的 VC++ 2015.3 v14.00 (v140) 工具集
+
+(因为安装了VS2017,又实在配不好2017的环境)
+
+
+
+to be continued...
+
+
+
+
+
+
+
+##附录：nicewsyly的readme
+
 c++(visual studio) implementation of Efficient Convolution Operator(ECO)tracker.
 
 version1.0
